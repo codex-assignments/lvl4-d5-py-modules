@@ -1,1 +1,2 @@
 Test Guy,Mage,3,10,2
+,Adventurer,6,4,5
